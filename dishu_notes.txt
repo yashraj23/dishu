@@ -1,0 +1,11 @@
+Hello, my name is **Dishwanthi**. Thank you for giving me the opportunity to introduce myself.
+
+I completed my graduation from **Sri Venkateswara university where I pursued a **BSc with a focus on Computers**. I graduated with **distinction ,in my major** and actively participated in academic and practical projects.
+
+As part of my coursework, I worked on a **Python-based internal project** with a team of four members. In this project, we explored **data collection, string handling, data analysis, and logical implementation**. The application was designed to manage student data by matching registrations with individual **sports, cultural, and other college events**.
+We also developed a **notification system** within the program to automatically inform selected students about their assigned events. This project helped streamline event organization and was later adapted for future college events as well.
+
+Working on this project inspired me to further explore **coding, collaboration, and practical skill application**, not only in technical areas but also in teamwork and problem-solving.
+
+In addition to my academic experience, I have worked as a **student organization volunteer for the Swachh Bharat initiative** and also contributed as a **computer data analyst for the electoral out bank**, where I handled and analyzed data responsibly.
+
